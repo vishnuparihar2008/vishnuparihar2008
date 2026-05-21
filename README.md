@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently a Student at Maharaja Surajmal Institute of Technology<br>Learning Programming Basics like DSA, OOPS, Full Stack Development, Databases etc.<br>Have knowledge of Programming Languages like Python, C++, Java, JavaScript<br>and HTML, CSS & JS.<br>
+# About Me:
+B. Tech (CSE) Student at MSIT '29<br>Front-End | C++ | Java | Python<br>Exploring Data Structures and Algorithms and MERN Collection<br>
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ I'm currently a Student at Maharaja Surajmal Institute of Technology<br>Learning
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vishnuparihar2008&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vishnuparihar2008&limit=5&theme=dark&combine_all_yearly_contributions=true)
