@@ -1,5 +1,7 @@
 # About Me:
-B. Tech (CSE) Student at MSIT '29<br>Front-End | C++ | Java | Python<br>Exploring Data Structures and Algorithms and MERN Collection<br>
+B.Tech CSE Student @ MSIT ’29 | Full-Stack Developer | HTML • CSS • JavaScript • Tailwind<br>
+Exploring MERN Collections: MongoDB • Express • React • Node.js<br>
+C++ • Python • Java • SQL<br>
 
 
 ## 🌐 Socials:
